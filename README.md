@@ -1,6 +1,6 @@
-# 🖥️ Fractal Visualizations with Pygame
+# 🖥️ Portfolio Project: Fractal Visualizations with Pygame
 
-This project explores the fascinating world of **fractals**, demonstrating how simple mathematical rules can generate intricate and beautiful patterns. Built using **Python** and **Pygame**, this repository features three visually stunning fractal visualizations:
+This project explores the fascinating world of **fractals**, demonstrating how simple mathematical rules can generate intricate and beautiful patterns. Built using **Python** and **Pygame**, this repository features three visually stunning fractal visualizations. These fractals showcase the power of recursion, mathematical beauty, and computational efficiency.
 
 📌 **Overview**
 This project showcases the following fractals:
@@ -13,7 +13,7 @@ This project showcases the following fractals:
 - **Pygame** (for visualizing the fractals in an interactive environment)
 - **NumPy** (for optimized calculations)
 
-📂 **Dataset & Mathematical Background**
+📂 **Mathematical Background & Algorithms**
 Fractals are generated based on mathematical formulas and iterative processes:
 - **Sierpiński Gasket** uses midpoint displacement in a triangle.
 - **Julia Set** follows the recursive formula:  
@@ -24,17 +24,19 @@ Fractals are generated based on mathematical formulas and iterative processes:
 ---
 
 ## ▶️ Running the Project
-Ensure **Python 3.13** and **Pygame** are installed:
-
+### 1️⃣ **Installation**
+Ensure **Python 3.13**, **Pygame**, and **NumPy** are installed:
 ```bash
 pip install pygame numpy
 ```
 
-Run each fractal visualization using:
-Sierpinski Gasket Code:
-<br>[Sierpinski_Pygame.py](Sierpinski_Pygame.py)<br>
-Julia Set Code: [JuliaSet_Pygame.py](JuliaSet_Pygame.py)<br>
-Mandelbrot Set Code: [Mandelbrot_Pygame.py](Mandelbrot_Pygame.py)
+### 2️⃣ **Running the Scripts**
+Execute each fractal visualization with:
+
+[python sierpinski_gasket.py](python sierpinski_gasket.py)
+[python julia_set.py](python julia_set.py)
+[python mandelbrot_set.py](python mandelbrot_set.py)
+
 
 ## 📊 Fractal Analysis & Output
 
@@ -78,7 +80,8 @@ Want to experiment with fractals? Try modifying:
 Interested in contributing? Follow these steps:
 1. **Fork** the repository.
 2. **Create a new branch** for your changes.
-3. **Submit a pull request** with your improvements.
+3. **Test your modifications** to ensure stability.
+4. **Submit a pull request** with your improvements.
 
 ---
 
