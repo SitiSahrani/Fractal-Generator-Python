@@ -76,17 +76,10 @@ Want to experiment with fractals? Try modifying:
 
 ---
 
-## 🤝 Contributing
-Interested in contributing? Follow these steps:
-1. **Fork** the repository.
-2. **Create a new branch** for your changes.
-3. **Test your modifications** to ensure stability.
-4. **Submit a pull request** with your improvements.
-
----
-
 ## 📜 License
-This project is licensed under the **MIT License** – feel free to use, modify, and share!
+This project is licensed under the **MIT License** – feel free to use, modify, and share! If you use or modify this project, kindly credit the original repository.
+
+📢 **Author Note:** This project is part of my portfolio, demonstrating my skills in Python and fractal visualizations.
 
 🚀 **Explore the beauty of fractals!**
 
