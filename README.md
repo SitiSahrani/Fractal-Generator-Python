@@ -31,7 +31,8 @@ pip install pygame numpy
 ```
 
 Run each fractal visualization using:
-Sierpinski Gasket Code:<br> [Sierpinski_Pygame.py](Sierpinski_Pygame.py)<br>
+Sierpinski Gasket Code:
+<br>[Sierpinski_Pygame.py](Sierpinski_Pygame.py)<br>
 Julia Set Code: [JuliaSet_Pygame.py](JuliaSet_Pygame.py)<br>
 Mandelbrot Set Code: [Mandelbrot_Pygame.py](Mandelbrot_Pygame.py)
 
