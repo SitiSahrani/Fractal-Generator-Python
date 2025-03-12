@@ -1,4 +1,3 @@
-# Fractal-Generator-Python
 # 🖥️ Fractal Visualizations with Pygame
 
 This project explores the fascinating world of **fractals**, demonstrating how simple mathematical rules can generate intricate and beautiful patterns. Built using **Python** and **Pygame**, this repository features three visually stunning fractal visualizations:
