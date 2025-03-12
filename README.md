@@ -31,13 +31,9 @@ pip install pygame numpy
 ```
 
 Run each fractal visualization using:
-```bash
-python sierpinski_gasket.py
-python julia_set.py
-python mandelbrot_set.py
-```
-
----
+[Sierpinski Gasket python code](Sierpisnki_Pygame.py)
+[](JuliaSet_Pygame.py)
+[](Mandelbrot_Pygame.py)
 
 ## 📊 Fractal Analysis & Output
 
